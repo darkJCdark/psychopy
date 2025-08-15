@@ -1,0 +1,158 @@
+3.6028 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+3.6033 	INFO 	Loaded monitor calibration from ['2025_08_10 19:43']
+3.7611 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001838440C4C0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001838440C460>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001838EBEA320>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 240.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+3.7611 	EXP 	window1: backgroundImage = ''
+3.7612 	EXP 	window1: backgroundFit = 'none'
+3.7668 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7674 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7679 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7685 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7691 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7695 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7700 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7706 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7709 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7711 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7716 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7721 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7725 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7730 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7734 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7739 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7744 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7747 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7751 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7757 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7760 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7762 	DEBUG 	Uploading Texture Font fontname to graphics card
+3.7799 	DEBUG 	Upload of Texture Font fontname complete
+3.7842 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7849 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7858 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7860 	DEBUG 	Uploading Texture Font fontname to graphics card
+3.7895 	DEBUG 	Upload of Texture Font fontname complete
+3.7909 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+3.7909 	EXP 	window1: recordFrameIntervals = False
+3.9540 	EXP 	window1: recordFrameIntervals = True
+4.2864 	EXP 	Screen (0) actual frame rate measured at 59.77Hz
+4.2864 	EXP 	window1: recordFrameIntervals = False
+4.2954 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.2959 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.2966 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.2975 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.2982 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.2989 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.2992 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.2999 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.3006 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.3013 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.3015 	DEBUG 	Uploading Texture Font fontname to graphics card
+4.3019 	DEBUG 	Upload of Texture Font fontname complete
+4.3098 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+6.0812 	INFO 	keyboard.Keyboard is using iohub backend.
+6.0812 	INFO 	keyboard.Keyboard is using iohub backend.
+6.0812 	INFO 	keyboard.Keyboard is using iohub backend.
+6.0813 	INFO 	keyboard.Keyboard is using iohub backend.
+6.0813 	EXP 	prelearned_chunks: status = STARTED
+6.1346 	EXP 	Created textWelcome = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textWelcome', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Welcome!\nPress space plis.', units='height', win=Window(...), wrapWidth=1)
+6.1367 	EXP 	Created textCross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textCross', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+6.1395 	EXP 	Created textThanks = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textThanks', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thanks!\nPress space plis.', units='height', win=Window(...), wrapWidth=1)
+0.0269 	INFO 	Keyboard events cleared
+0.0267 	EXP 	textWelcome: autoDraw = True
+1.5181 	DEBUG 	Read excel file with openpyxl: config/config.xlsx
+1.5503 	EXP 	Imported config/config.xlsx as conditions, 160 conditions, 26 params
+1.5516 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'trialType': 'chunk', 'letter1': 'U', 'type_letter1': 'bold', 'letter2': 'P', 'type_letter2': 'italic', 'letter3': 'W', 'type_letter3': 'italic', 'letter4': 'E', 'type_letter4': 'bold', 'letter5': 'I', 'type_letter5': 'bold', 'letter6': 'F', 'type_letter6': 'bold', 'letter7': 'M', 'type_letter7': 'bold', 'letter8': 'Y', 'type_letter8': 'bold', 'starPosition': 5.0, 'letterTarget': 'I', 'TypeTarget': 'bold', 'letterFoil1': 'I', 'typeFoil1': 'italic', 'letterFoil2': 'T', 'typeFoil2': 'bold', 'letterFoil3': 'T', 'typeFoil3': 'italic', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+1.5534 	DATA 	Keypress: space
+1.5574 	EXP 	textWelcome: autoDraw = False
+1.5574 	EXP 	textCross: autoDraw = True
+2.4991 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-0.1,  0. ]), rgb=UNKNOWN, text='U', units='height', win=Window(...), wrapWidth=1)
+2.5054 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=True, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0.1, 0. ]), rgb=UNKNOWN, text='P', units='height', win=Window(...), wrapWidth=1)
+2.5235 	INFO 	Keyboard events cleared
+2.5232 	EXP 	textCross: autoDraw = False
+4.6120 	DATA 	Keypress: right
+5.2572 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'trialType': 'random', 'letter1': 'A', 'type_letter1': 'bold', 'letter2': 'I', 'type_letter2': 'italic', 'letter3': 'T', 'type_letter3': 'italic', 'letter4': 'Y', 'type_letter4': 'italic', 'letter5': 'P', 'type_letter5': 'italic', 'letter6': 'W', 'type_letter6': 'italic', 'letter7': 'O', 'type_letter7': 'italic', 'letter8': 'S', 'type_letter8': 'bold', 'starPosition': 2.0, 'letterTarget': 'I', 'TypeTarget': 'italic', 'letterFoil1': 'I', 'typeFoil1': 'bold', 'letterFoil2': 'E', 'typeFoil2': 'italic', 'letterFoil3': 'E', 'typeFoil3': 'bold', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+5.2577 	DATA 	Keypress: space
+5.2714 	EXP 	textCross: autoDraw = True
+6.2649 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-0.1,  0. ]), rgb=UNKNOWN, text='A', units='height', win=Window(...), wrapWidth=1)
+6.2693 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=True, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0.1, 0. ]), rgb=UNKNOWN, text='I', units='height', win=Window(...), wrapWidth=1)
+6.2871 	INFO 	Keyboard events cleared
+6.2868 	EXP 	textCross: autoDraw = False
+7.4609 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'trialType': 'chunk', 'letter1': 'M', 'type_letter1': 'bold', 'letter2': 'Y', 'type_letter2': 'bold', 'letter3': 'I', 'type_letter3': 'italic', 'letter4': 'F', 'type_letter4': 'bold', 'letter5': 'A', 'type_letter5': 'italic', 'letter6': 'S', 'type_letter6': 'italic', 'letter7': 'U', 'type_letter7': 'bold', 'letter8': 'P', 'type_letter8': 'bold', 'starPosition': 2.0, 'letterTarget': 'Y', 'TypeTarget': 'bold', 'letterFoil1': 'Y', 'typeFoil1': 'italic', 'letterFoil2': 'T', 'typeFoil2': 'bold', 'letterFoil3': 'T', 'typeFoil3': 'italic', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+7.4621 	DATA 	Keypress: space
+7.4705 	EXP 	textCross: autoDraw = True
+8.4642 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-0.1,  0. ]), rgb=UNKNOWN, text='M', units='height', win=Window(...), wrapWidth=1)
+8.4693 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0.1, 0. ]), rgb=UNKNOWN, text='Y', units='height', win=Window(...), wrapWidth=1)
+8.4863 	INFO 	Keyboard events cleared
+8.4858 	EXP 	textCross: autoDraw = False
+8.4858 	EXP 	textCross: autoDraw = False
+9.2078 	DATA 	Keypress: space
+10.5056 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'trialType': 'chunk', 'letter1': 'W', 'type_letter1': 'italic', 'letter2': 'E', 'type_letter2': 'italic', 'letter3': 'M', 'type_letter3': 'italic', 'letter4': 'Y', 'type_letter4': 'bold', 'letter5': 'I', 'type_letter5': 'italic', 'letter6': 'F', 'type_letter6': 'italic', 'letter7': 'U', 'type_letter7': 'bold', 'letter8': 'P', 'type_letter8': 'bold', 'starPosition': 5.0, 'letterTarget': 'I', 'TypeTarget': 'italic', 'letterFoil1': 'I', 'typeFoil1': 'bold', 'letterFoil2': 'T', 'typeFoil2': 'italic', 'letterFoil3': 'T', 'typeFoil3': 'bold', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+10.5069 	DATA 	Keypress: space
+10.5183 	EXP 	textCross: autoDraw = True
+11.5115 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=True, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-0.1,  0. ]), rgb=UNKNOWN, text='W', units='height', win=Window(...), wrapWidth=1)
+11.5161 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=True, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0.1, 0. ]), rgb=UNKNOWN, text='E', units='height', win=Window(...), wrapWidth=1)
+11.5338 	INFO 	Keyboard events cleared
+11.5333 	EXP 	textCross: autoDraw = False
+11.5333 	EXP 	textCross: autoDraw = False
+12.1401 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'trialType': 'chunk', 'letter1': 'I', 'type_letter1': 'bold', 'letter2': 'F', 'type_letter2': 'italic', 'letter3': 'A', 'type_letter3': 'italic', 'letter4': 'S', 'type_letter4': 'bold', 'letter5': 'M', 'type_letter5': 'bold', 'letter6': 'Y', 'type_letter6': 'italic', 'letter7': 'W', 'type_letter7': 'italic', 'letter8': 'E', 'type_letter8': 'bold', 'starPosition': 6.0, 'letterTarget': 'Y', 'TypeTarget': 'italic', 'letterFoil1': 'Y', 'typeFoil1': 'bold', 'letterFoil2': 'T', 'typeFoil2': 'italic', 'letterFoil3': 'T', 'typeFoil3': 'bold', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+12.1412 	DATA 	Keypress: space
+12.1498 	EXP 	textCross: autoDraw = True
+13.1425 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-0.1,  0. ]), rgb=UNKNOWN, text='I', units='height', win=Window(...), wrapWidth=1)
+13.1456 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=True, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0.1, 0. ]), rgb=UNKNOWN, text='F', units='height', win=Window(...), wrapWidth=1)
+13.1654 	INFO 	Keyboard events cleared
+13.1647 	EXP 	textCross: autoDraw = False
+13.1647 	EXP 	textCross: autoDraw = False
+13.7057 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'trialType': 'random', 'letter1': 'W', 'type_letter1': 'italic', 'letter2': 'U', 'type_letter2': 'italic', 'letter3': 'I', 'type_letter3': 'bold', 'letter4': 'P', 'type_letter4': 'bold', 'letter5': 'E', 'type_letter5': 'bold', 'letter6': 'Y', 'type_letter6': 'italic', 'letter7': 'M', 'type_letter7': 'bold', 'letter8': 'F', 'type_letter8': 'bold', 'starPosition': 7.0, 'letterTarget': 'M', 'TypeTarget': 'bold', 'letterFoil1': 'M', 'typeFoil1': 'italic', 'letterFoil2': 'T', 'typeFoil2': 'bold', 'letterFoil3': 'T', 'typeFoil3': 'italic', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+13.7069 	DATA 	Keypress: space
+13.7153 	EXP 	textCross: autoDraw = True
+14.7081 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=True, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-0.1,  0. ]), rgb=UNKNOWN, text='W', units='height', win=Window(...), wrapWidth=1)
+14.7125 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=True, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0.1, 0. ]), rgb=UNKNOWN, text='U', units='height', win=Window(...), wrapWidth=1)
+14.7302 	INFO 	Keyboard events cleared
+14.7298 	EXP 	textCross: autoDraw = False
+14.7298 	EXP 	textCross: autoDraw = False
+15.9521 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'trialType': 'random', 'letter1': 'S', 'type_letter1': 'bold', 'letter2': 'F', 'type_letter2': 'bold', 'letter3': 'P', 'type_letter3': 'italic', 'letter4': 'E', 'type_letter4': 'italic', 'letter5': 'O', 'type_letter5': 'italic', 'letter6': 'M', 'type_letter6': 'italic', 'letter7': 'U', 'type_letter7': 'italic', 'letter8': 'Y', 'type_letter8': 'italic', 'starPosition': 8.0, 'letterTarget': 'Y', 'TypeTarget': 'italic', 'letterFoil1': 'Y', 'typeFoil1': 'bold', 'letterFoil2': 'T', 'typeFoil2': 'italic', 'letterFoil3': 'T', 'typeFoil3': 'bold', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+15.9531 	DATA 	Keypress: space
+15.9636 	EXP 	textCross: autoDraw = True
+16.9571 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-0.1,  0. ]), rgb=UNKNOWN, text='S', units='height', win=Window(...), wrapWidth=1)
+16.9609 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0.1, 0. ]), rgb=UNKNOWN, text='F', units='height', win=Window(...), wrapWidth=1)
+16.9792 	INFO 	Keyboard events cleared
+16.9787 	EXP 	textCross: autoDraw = False
+16.9787 	EXP 	textCross: autoDraw = False
+18.0488 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'trialType': 'random', 'letter1': 'T', 'type_letter1': 'italic', 'letter2': 'P', 'type_letter2': 'bold', 'letter3': 'S', 'type_letter3': 'italic', 'letter4': 'F', 'type_letter4': 'italic', 'letter5': 'A', 'type_letter5': 'italic', 'letter6': 'E', 'type_letter6': 'italic', 'letter7': 'I', 'type_letter7': 'bold', 'letter8': 'M', 'type_letter8': 'bold', 'starPosition': 2.0, 'letterTarget': 'P', 'TypeTarget': 'bold', 'letterFoil1': 'P', 'typeFoil1': 'italic', 'letterFoil2': 'T', 'typeFoil2': 'bold', 'letterFoil3': 'T', 'typeFoil3': 'italic', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+18.0498 	DATA 	Keypress: space
+18.0624 	EXP 	textCross: autoDraw = True
+19.0539 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=True, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-0.1,  0. ]), rgb=UNKNOWN, text='T', units='height', win=Window(...), wrapWidth=1)
+19.0563 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0.1, 0. ]), rgb=UNKNOWN, text='P', units='height', win=Window(...), wrapWidth=1)
+19.0602 	INFO 	Keyboard events cleared
+19.0600 	EXP 	textCross: autoDraw = False
+19.0600 	EXP 	textCross: autoDraw = False
+19.5159 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'trialType': 'chunk', 'letter1': 'T', 'type_letter1': 'bold', 'letter2': 'O', 'type_letter2': 'bold', 'letter3': 'A', 'type_letter3': 'italic', 'letter4': 'S', 'type_letter4': 'bold', 'letter5': 'M', 'type_letter5': 'italic', 'letter6': 'Y', 'type_letter6': 'bold', 'letter7': 'U', 'type_letter7': 'italic', 'letter8': 'P', 'type_letter8': 'bold', 'starPosition': 8.0, 'letterTarget': 'P', 'TypeTarget': 'bold', 'letterFoil1': 'P', 'typeFoil1': 'italic', 'letterFoil2': 'I', 'typeFoil2': 'bold', 'letterFoil3': 'I', 'typeFoil3': 'italic', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+19.5170 	DATA 	Keypress: space
+19.5275 	EXP 	textCross: autoDraw = True
+20.5210 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-0.1,  0. ]), rgb=UNKNOWN, text='T', units='height', win=Window(...), wrapWidth=1)
+20.5273 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0.1, 0. ]), rgb=UNKNOWN, text='O', units='height', win=Window(...), wrapWidth=1)
+20.5434 	INFO 	Keyboard events cleared
+20.5427 	EXP 	textCross: autoDraw = False
+20.5427 	EXP 	textCross: autoDraw = False
+21.0985 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'trialType': 'chunk', 'letter1': 'I', 'type_letter1': 'italic', 'letter2': 'F', 'type_letter2': 'bold', 'letter3': 'U', 'type_letter3': 'italic', 'letter4': 'P', 'type_letter4': 'italic', 'letter5': 'W', 'type_letter5': 'italic', 'letter6': 'E', 'type_letter6': 'bold', 'letter7': 'A', 'type_letter7': 'italic', 'letter8': 'S', 'type_letter8': 'italic', 'starPosition': 6.0, 'letterTarget': 'E', 'TypeTarget': 'bold', 'letterFoil1': 'E', 'typeFoil1': 'italic', 'letterFoil2': 'T', 'typeFoil2': 'bold', 'letterFoil3': 'T', 'typeFoil3': 'italic', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+21.0995 	DATA 	Keypress: space
+21.1094 	EXP 	textCross: autoDraw = True
+22.1000 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=True, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-0.1,  0. ]), rgb=UNKNOWN, text='I', units='height', win=Window(...), wrapWidth=1)
+22.1020 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0.1, 0. ]), rgb=UNKNOWN, text='F', units='height', win=Window(...), wrapWidth=1)
+22.1078 	INFO 	Keyboard events cleared
+22.1075 	EXP 	textCross: autoDraw = False
+22.1075 	EXP 	textCross: autoDraw = False
+22.6633 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'trialType': 'chunk', 'letter1': 'T', 'type_letter1': 'italic', 'letter2': 'O', 'type_letter2': 'italic', 'letter3': 'A', 'type_letter3': 'italic', 'letter4': 'S', 'type_letter4': 'italic', 'letter5': 'U', 'type_letter5': 'bold', 'letter6': 'P', 'type_letter6': 'italic', 'letter7': 'W', 'type_letter7': 'bold', 'letter8': 'E', 'type_letter8': 'bold', 'starPosition': 1.0, 'letterTarget': 'T', 'TypeTarget': 'italic', 'letterFoil1': 'T', 'typeFoil1': 'bold', 'letterFoil2': 'I', 'typeFoil2': 'italic', 'letterFoil3': 'I', 'typeFoil3': 'bold', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+22.6641 	DATA 	Keypress: space
+22.6746 	EXP 	textCross: autoDraw = True
+23.6657 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=True, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-0.1,  0. ]), rgb=UNKNOWN, text='T', units='height', win=Window(...), wrapWidth=1)
+23.6703 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=True, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0.1, 0. ]), rgb=UNKNOWN, text='O', units='height', win=Window(...), wrapWidth=1)
+23.6913 	INFO 	Keyboard events cleared
+23.6905 	EXP 	textCross: autoDraw = False
+23.6905 	EXP 	textCross: autoDraw = False
+24.6130 	DATA 	Keypress: escape
+24.7575 	EXP 	prelearned_chunks: status = STOPPED
+24.7750 	EXP 	prelearned_chunks: status = STOPPED
+24.7821 	INFO 	saved data to 'C:\\Users\\italo\\OneDrive\\Documents\\PUCP\\Seminario\\proyecto\\psychopy\\data/558557_prelearned_chunks_2025-08-15_17h28.39.816.csv'
+24.7838 	INFO 	saved data to C:\Users\italo\OneDrive\Documents\PUCP\Seminario\proyecto\psychopy\data/558557_prelearned_chunks_2025-08-15_17h28.39.816.psydat
+25.3944 	DEBUG 	Saving data for prelearned_chunks ExperimentHandler
