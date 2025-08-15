@@ -1,0 +1,384 @@
+5.1788 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+5.1796 	INFO 	Loaded monitor calibration from ['2025_08_11 18:54']
+6.0086 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001CFBB9B09A0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001CFBB9B0940>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001CFBBA61EA0>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 240.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.0087 	EXP 	window1: backgroundImage = ''
+6.0087 	EXP 	window1: backgroundFit = 'none'
+6.0276 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0285 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0293 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0304 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0316 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0322 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0330 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0341 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0345 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0350 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0358 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0366 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0375 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0384 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0391 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0399 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0408 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0419 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0426 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0436 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0442 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0446 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.0604 	DEBUG 	Upload of Texture Font fontname complete
+6.0764 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0776 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0786 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.0789 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.0945 	DEBUG 	Upload of Texture Font fontname complete
+6.0964 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.0965 	EXP 	window1: recordFrameIntervals = False
+6.2599 	EXP 	window1: recordFrameIntervals = True
+6.4426 	EXP 	Screen (0) actual frame rate measured at 60.37Hz
+6.4426 	EXP 	window1: recordFrameIntervals = False
+6.4579 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4586 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4595 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4607 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4618 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4629 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4635 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4644 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4655 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4665 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4668 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.4675 	DEBUG 	Upload of Texture Font fontname complete
+6.4883 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+8.1709 	INFO 	keyboard.Keyboard is using iohub backend.
+8.1710 	INFO 	keyboard.Keyboard is using iohub backend.
+8.1710 	INFO 	keyboard.Keyboard is using iohub backend.
+8.1711 	INFO 	keyboard.Keyboard is using iohub backend.
+8.1711 	EXP 	prelearned_chunks: status = STARTED
+8.2168 	EXP 	Created textWelcome = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textWelcome', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Welcome!\nPress space plis.', units='height', win=Window(...), wrapWidth=1)
+8.2201 	EXP 	Created textCross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textCross', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+8.2244 	EXP 	Created textGame = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textGame', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Game\nPress y or n', units='height', win=Window(...), wrapWidth=1)
+8.2297 	EXP 	Created textThanks = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textThanks', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thanks!\nPress space plis.', units='height', win=Window(...), wrapWidth=1)
+0.0012 	DATA 	Mouse: Left button down, pos=(375,260)
+0.0016 	DATA 	Mouse:  Left button up, pos=(375,260)
+0.0296 	INFO 	Keyboard events cleared
+0.0293 	EXP 	textWelcome: autoDraw = True
+1.1542 	DEBUG 	Read excel file with openpyxl: config/config.xlsx
+1.2072 	EXP 	Imported config/config.xlsx as conditions, 160 conditions, 26 params
+1.2093 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'trialType': 'chunk', 'letter1': 'W', 'type_letter1': 'italic', 'letter2': 'E', 'type_letter2': 'italic', 'letter3': 'U', 'type_letter3': 'bold', 'letter4': 'P', 'type_letter4': 'bold', 'letter5': 'M', 'type_letter5': 'italic', 'letter6': 'Y', 'type_letter6': 'italic', 'letter7': 'A', 'type_letter7': 'italic', 'letter8': 'S', 'type_letter8': 'italic', 'starPosition': 7.0, 'letterTarget': 'A', 'TypeTarget': 'italic', 'letterFoil1': 'A', 'typeFoil1': 'bold', 'letterFoil2': 'T', 'typeFoil2': 'italic', 'letterFoil3': 'T', 'typeFoil3': 'bold', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+1.2120 	DATA 	Keypress: space
+1.2297 	EXP 	textWelcome: autoDraw = False
+1.2297 	EXP 	textCross: autoDraw = True
+2.0805 	INFO 	Keyboard events cleared
+2.0802 	EXP 	textCross: autoDraw = False
+2.0802 	EXP 	textGame: autoDraw = True
+3.1492 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'trialType': 'chunk', 'letter1': 'W', 'type_letter1': 'italic', 'letter2': 'E', 'type_letter2': 'italic', 'letter3': 'I', 'type_letter3': 'italic', 'letter4': 'F', 'type_letter4': 'bold', 'letter5': 'A', 'type_letter5': 'italic', 'letter6': 'S', 'type_letter6': 'italic', 'letter7': 'T', 'type_letter7': 'bold', 'letter8': 'O', 'type_letter8': 'italic', 'starPosition': 1.0, 'letterTarget': 'W', 'TypeTarget': 'italic', 'letterFoil1': 'W', 'typeFoil1': 'bold', 'letterFoil2': 'I', 'typeFoil2': 'italic', 'letterFoil3': 'I', 'typeFoil3': 'bold', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+3.1500 	DATA 	Keypress: n
+3.1630 	EXP 	textGame: autoDraw = False
+3.1630 	EXP 	textCross: autoDraw = True
+4.1632 	INFO 	Keyboard events cleared
+4.1627 	EXP 	textCross: autoDraw = False
+4.1627 	EXP 	textCross: autoDraw = False
+4.1627 	EXP 	textGame: autoDraw = True
+5.2490 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'trialType': 'random', 'letter1': 'I', 'type_letter1': 'bold', 'letter2': 'E', 'type_letter2': 'italic', 'letter3': 'A', 'type_letter3': 'bold', 'letter4': 'T', 'type_letter4': 'italic', 'letter5': 'S', 'type_letter5': 'bold', 'letter6': 'P', 'type_letter6': 'italic', 'letter7': 'W', 'type_letter7': 'italic', 'letter8': 'Y', 'type_letter8': 'bold', 'starPosition': 8.0, 'letterTarget': 'Y', 'TypeTarget': 'bold', 'letterFoil1': 'Y', 'typeFoil1': 'italic', 'letterFoil2': 'U', 'typeFoil2': 'bold', 'letterFoil3': 'U', 'typeFoil3': 'italic', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+5.2500 	DATA 	Keypress: n
+5.2625 	EXP 	textGame: autoDraw = False
+5.2625 	EXP 	textCross: autoDraw = True
+6.2628 	INFO 	Keyboard events cleared
+6.2624 	EXP 	textCross: autoDraw = False
+6.2624 	EXP 	textCross: autoDraw = False
+6.2624 	EXP 	textGame: autoDraw = True
+7.9651 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'trialType': 'chunk', 'letter1': 'W', 'type_letter1': 'bold', 'letter2': 'E', 'type_letter2': 'italic', 'letter3': 'U', 'type_letter3': 'bold', 'letter4': 'P', 'type_letter4': 'italic', 'letter5': 'T', 'type_letter5': 'bold', 'letter6': 'O', 'type_letter6': 'italic', 'letter7': 'M', 'type_letter7': 'italic', 'letter8': 'Y', 'type_letter8': 'italic', 'starPosition': 4.0, 'letterTarget': 'P', 'TypeTarget': 'italic', 'letterFoil1': 'P', 'typeFoil1': 'bold', 'letterFoil2': 'I', 'typeFoil2': 'italic', 'letterFoil3': 'I', 'typeFoil3': 'bold', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+7.9659 	DATA 	Keypress: n
+7.9791 	EXP 	textGame: autoDraw = False
+7.9791 	EXP 	textCross: autoDraw = True
+8.9801 	INFO 	Keyboard events cleared
+8.9795 	EXP 	textCross: autoDraw = False
+8.9795 	EXP 	textGame: autoDraw = True
+9.8316 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'trialType': 'random', 'letter1': 'Y', 'type_letter1': 'italic', 'letter2': 'I', 'type_letter2': 'bold', 'letter3': 'U', 'type_letter3': 'bold', 'letter4': 'M', 'type_letter4': 'italic', 'letter5': 'E', 'type_letter5': 'italic', 'letter6': 'P', 'type_letter6': 'bold', 'letter7': 'F', 'type_letter7': 'italic', 'letter8': 'O', 'type_letter8': 'italic', 'starPosition': 1.0, 'letterTarget': 'Y', 'TypeTarget': 'italic', 'letterFoil1': 'Y', 'typeFoil1': 'bold', 'letterFoil2': 'T', 'typeFoil2': 'italic', 'letterFoil3': 'T', 'typeFoil3': 'bold', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+9.8324 	DATA 	Keypress: n
+9.8454 	EXP 	textGame: autoDraw = False
+9.8454 	EXP 	textCross: autoDraw = True
+10.8455 	INFO 	Keyboard events cleared
+10.8452 	EXP 	textCross: autoDraw = False
+10.8452 	EXP 	textCross: autoDraw = False
+10.8452 	EXP 	textGame: autoDraw = True
+11.4148 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'trialType': 'chunk', 'letter1': 'A', 'type_letter1': 'bold', 'letter2': 'S', 'type_letter2': 'bold', 'letter3': 'W', 'type_letter3': 'bold', 'letter4': 'E', 'type_letter4': 'bold', 'letter5': 'U', 'type_letter5': 'bold', 'letter6': 'P', 'type_letter6': 'italic', 'letter7': 'T', 'type_letter7': 'bold', 'letter8': 'O', 'type_letter8': 'bold', 'starPosition': 8.0, 'letterTarget': 'O', 'TypeTarget': 'bold', 'letterFoil1': 'O', 'typeFoil1': 'italic', 'letterFoil2': 'W', 'typeFoil2': 'bold', 'letterFoil3': 'W', 'typeFoil3': 'italic', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+11.4156 	DATA 	Keypress: n
+11.4285 	EXP 	textGame: autoDraw = False
+11.4285 	EXP 	textCross: autoDraw = True
+12.4288 	INFO 	Keyboard events cleared
+12.4284 	EXP 	textCross: autoDraw = False
+12.4284 	EXP 	textCross: autoDraw = False
+12.4284 	EXP 	textGame: autoDraw = True
+13.2645 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'trialType': 'random', 'letter1': 'E', 'type_letter1': 'italic', 'letter2': 'I', 'type_letter2': 'italic', 'letter3': 'U', 'type_letter3': 'bold', 'letter4': 'W', 'type_letter4': 'bold', 'letter5': 'P', 'type_letter5': 'bold', 'letter6': 'S', 'type_letter6': 'bold', 'letter7': 'T', 'type_letter7': 'bold', 'letter8': 'Y', 'type_letter8': 'bold', 'starPosition': 2.0, 'letterTarget': 'I', 'TypeTarget': 'italic', 'letterFoil1': 'I', 'typeFoil1': 'bold', 'letterFoil2': 'A', 'typeFoil2': 'italic', 'letterFoil3': 'A', 'typeFoil3': 'bold', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+13.2654 	DATA 	Keypress: n
+13.2782 	EXP 	textGame: autoDraw = False
+13.2782 	EXP 	textCross: autoDraw = True
+14.2786 	INFO 	Keyboard events cleared
+14.2782 	EXP 	textCross: autoDraw = False
+14.2782 	EXP 	textCross: autoDraw = False
+14.2782 	EXP 	textGame: autoDraw = True
+15.6142 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'trialType': 'random', 'letter1': 'I', 'type_letter1': 'bold', 'letter2': 'S', 'type_letter2': 'bold', 'letter3': 'O', 'type_letter3': 'bold', 'letter4': 'P', 'type_letter4': 'bold', 'letter5': 'E', 'type_letter5': 'bold', 'letter6': 'U', 'type_letter6': 'bold', 'letter7': 'M', 'type_letter7': 'italic', 'letter8': 'W', 'type_letter8': 'italic', 'starPosition': 4.0, 'letterTarget': 'P', 'TypeTarget': 'bold', 'letterFoil1': 'P', 'typeFoil1': 'italic', 'letterFoil2': 'I', 'typeFoil2': 'bold', 'letterFoil3': 'I', 'typeFoil3': 'italic', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+15.6150 	DATA 	Keypress: n
+15.6281 	EXP 	textGame: autoDraw = False
+15.6281 	EXP 	textCross: autoDraw = True
+16.6283 	INFO 	Keyboard events cleared
+16.6280 	EXP 	textCross: autoDraw = False
+16.6280 	EXP 	textCross: autoDraw = False
+16.6280 	EXP 	textGame: autoDraw = True
+17.1140 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'trialType': 'random', 'letter1': 'Y', 'type_letter1': 'bold', 'letter2': 'S', 'type_letter2': 'bold', 'letter3': 'F', 'type_letter3': 'italic', 'letter4': 'M', 'type_letter4': 'italic', 'letter5': 'T', 'type_letter5': 'italic', 'letter6': 'I', 'type_letter6': 'italic', 'letter7': 'U', 'type_letter7': 'bold', 'letter8': 'O', 'type_letter8': 'italic', 'starPosition': 1.0, 'letterTarget': 'Y', 'TypeTarget': 'bold', 'letterFoil1': 'Y', 'typeFoil1': 'italic', 'letterFoil2': 'W', 'typeFoil2': 'bold', 'letterFoil3': 'W', 'typeFoil3': 'italic', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+17.1147 	DATA 	Keypress: n
+17.1279 	EXP 	textGame: autoDraw = False
+17.1279 	EXP 	textCross: autoDraw = True
+18.1282 	INFO 	Keyboard events cleared
+18.1278 	EXP 	textCross: autoDraw = False
+18.1278 	EXP 	textCross: autoDraw = False
+18.1278 	EXP 	textGame: autoDraw = True
+18.4639 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'trialType': 'chunk', 'letter1': 'W', 'type_letter1': 'bold', 'letter2': 'E', 'type_letter2': 'bold', 'letter3': 'U', 'type_letter3': 'bold', 'letter4': 'P', 'type_letter4': 'italic', 'letter5': 'I', 'type_letter5': 'bold', 'letter6': 'F', 'type_letter6': 'italic', 'letter7': 'A', 'type_letter7': 'bold', 'letter8': 'S', 'type_letter8': 'italic', 'starPosition': 4.0, 'letterTarget': 'P', 'TypeTarget': 'italic', 'letterFoil1': 'P', 'typeFoil1': 'bold', 'letterFoil2': 'T', 'typeFoil2': 'italic', 'letterFoil3': 'T', 'typeFoil3': 'bold', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+18.4647 	DATA 	Keypress: n
+18.4776 	EXP 	textGame: autoDraw = False
+18.4776 	EXP 	textCross: autoDraw = True
+19.4781 	INFO 	Keyboard events cleared
+19.4777 	EXP 	textCross: autoDraw = False
+19.4777 	EXP 	textCross: autoDraw = False
+19.4777 	EXP 	textGame: autoDraw = True
+19.7971 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'trialType': 'chunk', 'letter1': 'I', 'type_letter1': 'bold', 'letter2': 'F', 'type_letter2': 'bold', 'letter3': 'A', 'type_letter3': 'italic', 'letter4': 'S', 'type_letter4': 'bold', 'letter5': 'W', 'type_letter5': 'italic', 'letter6': 'E', 'type_letter6': 'italic', 'letter7': 'U', 'type_letter7': 'bold', 'letter8': 'P', 'type_letter8': 'italic', 'starPosition': 1.0, 'letterTarget': 'I', 'TypeTarget': 'bold', 'letterFoil1': 'I', 'typeFoil1': 'italic', 'letterFoil2': 'T', 'typeFoil2': 'bold', 'letterFoil3': 'T', 'typeFoil3': 'italic', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+19.7979 	DATA 	Keypress: n
+19.8109 	EXP 	textGame: autoDraw = False
+19.8109 	EXP 	textCross: autoDraw = True
+20.8111 	INFO 	Keyboard events cleared
+20.8107 	EXP 	textCross: autoDraw = False
+20.8107 	EXP 	textCross: autoDraw = False
+20.8107 	EXP 	textGame: autoDraw = True
+21.1468 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'trialType': 'random', 'letter1': 'O', 'type_letter1': 'bold', 'letter2': 'M', 'type_letter2': 'bold', 'letter3': 'F', 'type_letter3': 'italic', 'letter4': 'A', 'type_letter4': 'bold', 'letter5': 'T', 'type_letter5': 'italic', 'letter6': 'U', 'type_letter6': 'italic', 'letter7': 'E', 'type_letter7': 'italic', 'letter8': 'P', 'type_letter8': 'italic', 'starPosition': 1.0, 'letterTarget': 'O', 'TypeTarget': 'bold', 'letterFoil1': 'O', 'typeFoil1': 'italic', 'letterFoil2': 'I', 'typeFoil2': 'bold', 'letterFoil3': 'I', 'typeFoil3': 'italic', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+21.1477 	DATA 	Keypress: n
+21.1607 	EXP 	textGame: autoDraw = False
+21.1607 	EXP 	textCross: autoDraw = True
+22.1610 	INFO 	Keyboard events cleared
+22.1606 	EXP 	textCross: autoDraw = False
+22.1606 	EXP 	textCross: autoDraw = False
+22.1606 	EXP 	textGame: autoDraw = True
+22.4135 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'trialType': 'random', 'letter1': 'W', 'type_letter1': 'bold', 'letter2': 'M', 'type_letter2': 'bold', 'letter3': 'U', 'type_letter3': 'italic', 'letter4': 'Y', 'type_letter4': 'bold', 'letter5': 'T', 'type_letter5': 'italic', 'letter6': 'I', 'type_letter6': 'bold', 'letter7': 'P', 'type_letter7': 'italic', 'letter8': 'E', 'type_letter8': 'italic', 'starPosition': 6.0, 'letterTarget': 'I', 'TypeTarget': 'bold', 'letterFoil1': 'I', 'typeFoil1': 'italic', 'letterFoil2': 'O', 'typeFoil2': 'bold', 'letterFoil3': 'O', 'typeFoil3': 'italic', 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+22.4143 	DATA 	Keypress: n
+22.4272 	EXP 	textGame: autoDraw = False
+22.4272 	EXP 	textCross: autoDraw = True
+23.4278 	INFO 	Keyboard events cleared
+23.4273 	EXP 	textCross: autoDraw = False
+23.4273 	EXP 	textCross: autoDraw = False
+23.4273 	EXP 	textGame: autoDraw = True
+23.7133 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'trialType': 'chunk', 'letter1': 'T', 'type_letter1': 'bold', 'letter2': 'O', 'type_letter2': 'bold', 'letter3': 'W', 'type_letter3': 'italic', 'letter4': 'E', 'type_letter4': 'italic', 'letter5': 'M', 'type_letter5': 'bold', 'letter6': 'Y', 'type_letter6': 'italic', 'letter7': 'I', 'type_letter7': 'italic', 'letter8': 'F', 'type_letter8': 'italic', 'starPosition': 7.0, 'letterTarget': 'I', 'TypeTarget': 'italic', 'letterFoil1': 'I', 'typeFoil1': 'bold', 'letterFoil2': 'S', 'typeFoil2': 'italic', 'letterFoil3': 'S', 'typeFoil3': 'bold', 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+23.7141 	DATA 	Keypress: n
+23.7271 	EXP 	textGame: autoDraw = False
+23.7271 	EXP 	textCross: autoDraw = True
+24.7273 	INFO 	Keyboard events cleared
+24.7269 	EXP 	textCross: autoDraw = False
+24.7269 	EXP 	textCross: autoDraw = False
+24.7269 	EXP 	textGame: autoDraw = True
+24.9800 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'trialType': 'random', 'letter1': 'I', 'type_letter1': 'bold', 'letter2': 'A', 'type_letter2': 'italic', 'letter3': 'F', 'type_letter3': 'bold', 'letter4': 'P', 'type_letter4': 'italic', 'letter5': 'O', 'type_letter5': 'italic', 'letter6': 'M', 'type_letter6': 'bold', 'letter7': 'T', 'type_letter7': 'italic', 'letter8': 'S', 'type_letter8': 'italic', 'starPosition': 4.0, 'letterTarget': 'P', 'TypeTarget': 'italic', 'letterFoil1': 'P', 'typeFoil1': 'bold', 'letterFoil2': 'Y', 'typeFoil2': 'italic', 'letterFoil3': 'Y', 'typeFoil3': 'bold', 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+24.9807 	DATA 	Keypress: n
+24.9936 	EXP 	textGame: autoDraw = False
+24.9936 	EXP 	textCross: autoDraw = True
+25.9939 	INFO 	Keyboard events cleared
+25.9935 	EXP 	textCross: autoDraw = False
+25.9935 	EXP 	textCross: autoDraw = False
+25.9935 	EXP 	textGame: autoDraw = True
+26.1131 	EXP 	New trial (rep=0, index=15): <Trial 15 (15 in rep 0) data={'trialType': 'chunk', 'letter1': 'U', 'type_letter1': 'bold', 'letter2': 'P', 'type_letter2': 'bold', 'letter3': 'A', 'type_letter3': 'bold', 'letter4': 'S', 'type_letter4': 'italic', 'letter5': 'I', 'type_letter5': 'italic', 'letter6': 'F', 'type_letter6': 'bold', 'letter7': 'W', 'type_letter7': 'italic', 'letter8': 'E', 'type_letter8': 'italic', 'starPosition': 8.0, 'letterTarget': 'E', 'TypeTarget': 'italic', 'letterFoil1': 'E', 'typeFoil1': 'bold', 'letterFoil2': 'T', 'typeFoil2': 'italic', 'letterFoil3': 'T', 'typeFoil3': 'bold', 'thisN': 15, 'thisTrialN': 15, 'thisRepN': 0}>
+26.1139 	DATA 	Keypress: n
+26.1268 	EXP 	textGame: autoDraw = False
+26.1268 	EXP 	textCross: autoDraw = True
+27.1272 	INFO 	Keyboard events cleared
+27.1268 	EXP 	textCross: autoDraw = False
+27.1268 	EXP 	textCross: autoDraw = False
+27.1268 	EXP 	textGame: autoDraw = True
+27.5131 	EXP 	New trial (rep=0, index=16): <Trial 16 (16 in rep 0) data={'trialType': 'random', 'letter1': 'F', 'type_letter1': 'italic', 'letter2': 'P', 'type_letter2': 'bold', 'letter3': 'S', 'type_letter3': 'italic', 'letter4': 'Y', 'type_letter4': 'italic', 'letter5': 'U', 'type_letter5': 'italic', 'letter6': 'A', 'type_letter6': 'italic', 'letter7': 'M', 'type_letter7': 'italic', 'letter8': 'E', 'type_letter8': 'italic', 'starPosition': 2.0, 'letterTarget': 'P', 'TypeTarget': 'bold', 'letterFoil1': 'P', 'typeFoil1': 'italic', 'letterFoil2': 'T', 'typeFoil2': 'bold', 'letterFoil3': 'T', 'typeFoil3': 'italic', 'thisN': 16, 'thisTrialN': 16, 'thisRepN': 0}>
+27.5139 	DATA 	Keypress: n
+27.5269 	EXP 	textGame: autoDraw = False
+27.5269 	EXP 	textCross: autoDraw = True
+28.5270 	INFO 	Keyboard events cleared
+28.5265 	EXP 	textCross: autoDraw = False
+28.5265 	EXP 	textCross: autoDraw = False
+28.5265 	EXP 	textGame: autoDraw = True
+28.7962 	EXP 	New trial (rep=0, index=17): <Trial 17 (17 in rep 0) data={'trialType': 'random', 'letter1': 'F', 'type_letter1': 'bold', 'letter2': 'W', 'type_letter2': 'bold', 'letter3': 'O', 'type_letter3': 'italic', 'letter4': 'U', 'type_letter4': 'italic', 'letter5': 'P', 'type_letter5': 'italic', 'letter6': 'A', 'type_letter6': 'bold', 'letter7': 'S', 'type_letter7': 'italic', 'letter8': 'Y', 'type_letter8': 'italic', 'starPosition': 2.0, 'letterTarget': 'W', 'TypeTarget': 'bold', 'letterFoil1': 'W', 'typeFoil1': 'italic', 'letterFoil2': 'M', 'typeFoil2': 'bold', 'letterFoil3': 'M', 'typeFoil3': 'italic', 'thisN': 17, 'thisTrialN': 17, 'thisRepN': 0}>
+28.7971 	DATA 	Keypress: n
+28.8100 	EXP 	textGame: autoDraw = False
+28.8100 	EXP 	textCross: autoDraw = True
+29.8106 	INFO 	Keyboard events cleared
+29.8102 	EXP 	textCross: autoDraw = False
+29.8102 	EXP 	textCross: autoDraw = False
+29.8102 	EXP 	textGame: autoDraw = True
+30.0958 	EXP 	New trial (rep=0, index=18): <Trial 18 (18 in rep 0) data={'trialType': 'random', 'letter1': 'S', 'type_letter1': 'italic', 'letter2': 'T', 'type_letter2': 'italic', 'letter3': 'Y', 'type_letter3': 'italic', 'letter4': 'F', 'type_letter4': 'bold', 'letter5': 'P', 'type_letter5': 'bold', 'letter6': 'M', 'type_letter6': 'italic', 'letter7': 'A', 'type_letter7': 'italic', 'letter8': 'U', 'type_letter8': 'italic', 'starPosition': 8.0, 'letterTarget': 'U', 'TypeTarget': 'italic', 'letterFoil1': 'U', 'typeFoil1': 'bold', 'letterFoil2': 'O', 'typeFoil2': 'italic', 'letterFoil3': 'O', 'typeFoil3': 'bold', 'thisN': 18, 'thisTrialN': 18, 'thisRepN': 0}>
+30.0966 	DATA 	Keypress: n
+30.1096 	EXP 	textGame: autoDraw = False
+30.1096 	EXP 	textCross: autoDraw = True
+31.1102 	INFO 	Keyboard events cleared
+31.1098 	EXP 	textCross: autoDraw = False
+31.1098 	EXP 	textCross: autoDraw = False
+31.1098 	EXP 	textGame: autoDraw = True
+31.3795 	DATA 	Keypress: n
+31.3957 	EXP 	New trial (rep=0, index=19): <Trial 19 (19 in rep 0) data={'trialType': 'chunk', 'letter1': 'I', 'type_letter1': 'bold', 'letter2': 'F', 'type_letter2': 'bold', 'letter3': 'U', 'type_letter3': 'italic', 'letter4': 'P', 'type_letter4': 'italic', 'letter5': 'W', 'type_letter5': 'bold', 'letter6': 'E', 'type_letter6': 'bold', 'letter7': 'A', 'type_letter7': 'bold', 'letter8': 'S', 'type_letter8': 'italic', 'starPosition': 1.0, 'letterTarget': 'I', 'TypeTarget': 'bold', 'letterFoil1': 'I', 'typeFoil1': 'italic', 'letterFoil2': 'T', 'typeFoil2': 'bold', 'letterFoil3': 'T', 'typeFoil3': 'italic', 'thisN': 19, 'thisTrialN': 19, 'thisRepN': 0}>
+31.4094 	EXP 	textGame: autoDraw = False
+31.4094 	EXP 	textCross: autoDraw = True
+32.4098 	INFO 	Keyboard events cleared
+32.4094 	EXP 	textCross: autoDraw = False
+32.4094 	EXP 	textCross: autoDraw = False
+32.4094 	EXP 	textGame: autoDraw = True
+32.5790 	EXP 	New trial (rep=0, index=20): <Trial 20 (20 in rep 0) data={'trialType': 'random', 'letter1': 'P', 'type_letter1': 'italic', 'letter2': 'I', 'type_letter2': 'italic', 'letter3': 'F', 'type_letter3': 'bold', 'letter4': 'O', 'type_letter4': 'bold', 'letter5': 'M', 'type_letter5': 'bold', 'letter6': 'S', 'type_letter6': 'bold', 'letter7': 'T', 'type_letter7': 'italic', 'letter8': 'W', 'type_letter8': 'italic', 'starPosition': 3.0, 'letterTarget': 'F', 'TypeTarget': 'bold', 'letterFoil1': 'F', 'typeFoil1': 'italic', 'letterFoil2': 'E', 'typeFoil2': 'bold', 'letterFoil3': 'E', 'typeFoil3': 'italic', 'thisN': 20, 'thisTrialN': 20, 'thisRepN': 0}>
+32.5799 	DATA 	Keypress: n
+32.5927 	EXP 	textGame: autoDraw = False
+32.5927 	EXP 	textCross: autoDraw = True
+33.5928 	INFO 	Keyboard events cleared
+33.5925 	EXP 	textCross: autoDraw = False
+33.5925 	EXP 	textCross: autoDraw = False
+33.5925 	EXP 	textGame: autoDraw = True
+33.6120 	EXP 	New trial (rep=0, index=21): <Trial 21 (21 in rep 0) data={'trialType': 'random', 'letter1': 'E', 'type_letter1': 'italic', 'letter2': 'T', 'type_letter2': 'bold', 'letter3': 'A', 'type_letter3': 'bold', 'letter4': 'Y', 'type_letter4': 'bold', 'letter5': 'O', 'type_letter5': 'bold', 'letter6': 'M', 'type_letter6': 'italic', 'letter7': 'P', 'type_letter7': 'italic', 'letter8': 'F', 'type_letter8': 'italic', 'starPosition': 2.0, 'letterTarget': 'T', 'TypeTarget': 'bold', 'letterFoil1': 'T', 'typeFoil1': 'italic', 'letterFoil2': 'I', 'typeFoil2': 'bold', 'letterFoil3': 'I', 'typeFoil3': 'italic', 'thisN': 21, 'thisTrialN': 21, 'thisRepN': 0}>
+33.6127 	DATA 	Keypress: n
+33.6260 	EXP 	textGame: autoDraw = False
+33.6260 	EXP 	textCross: autoDraw = True
+34.6261 	INFO 	Keyboard events cleared
+34.6258 	EXP 	textCross: autoDraw = False
+34.6258 	EXP 	textCross: autoDraw = False
+34.6258 	EXP 	textGame: autoDraw = True
+34.8791 	DATA 	Keypress: n
+34.8951 	EXP 	New trial (rep=0, index=22): <Trial 22 (22 in rep 0) data={'trialType': 'random', 'letter1': 'S', 'type_letter1': 'bold', 'letter2': 'M', 'type_letter2': 'bold', 'letter3': 'A', 'type_letter3': 'italic', 'letter4': 'W', 'type_letter4': 'italic', 'letter5': 'U', 'type_letter5': 'bold', 'letter6': 'F', 'type_letter6': 'bold', 'letter7': 'T', 'type_letter7': 'bold', 'letter8': 'E', 'type_letter8': 'bold', 'starPosition': 5.0, 'letterTarget': 'U', 'TypeTarget': 'bold', 'letterFoil1': 'U', 'typeFoil1': 'italic', 'letterFoil2': 'Y', 'typeFoil2': 'bold', 'letterFoil3': 'Y', 'typeFoil3': 'italic', 'thisN': 22, 'thisTrialN': 22, 'thisRepN': 0}>
+34.9090 	EXP 	textGame: autoDraw = False
+34.9090 	EXP 	textCross: autoDraw = True
+35.9093 	INFO 	Keyboard events cleared
+35.9089 	EXP 	textCross: autoDraw = False
+35.9089 	EXP 	textCross: autoDraw = False
+35.9089 	EXP 	textGame: autoDraw = True
+36.1617 	EXP 	New trial (rep=0, index=23): <Trial 23 (23 in rep 0) data={'trialType': 'random', 'letter1': 'A', 'type_letter1': 'bold', 'letter2': 'I', 'type_letter2': 'italic', 'letter3': 'T', 'type_letter3': 'italic', 'letter4': 'Y', 'type_letter4': 'italic', 'letter5': 'P', 'type_letter5': 'italic', 'letter6': 'W', 'type_letter6': 'italic', 'letter7': 'O', 'type_letter7': 'italic', 'letter8': 'S', 'type_letter8': 'bold', 'starPosition': 2.0, 'letterTarget': 'I', 'TypeTarget': 'italic', 'letterFoil1': 'I', 'typeFoil1': 'bold', 'letterFoil2': 'E', 'typeFoil2': 'italic', 'letterFoil3': 'E', 'typeFoil3': 'bold', 'thisN': 23, 'thisTrialN': 23, 'thisRepN': 0}>
+36.1624 	DATA 	Keypress: n
+36.1757 	EXP 	textGame: autoDraw = False
+36.1757 	EXP 	textCross: autoDraw = True
+37.1760 	INFO 	Keyboard events cleared
+37.1756 	EXP 	textCross: autoDraw = False
+37.1756 	EXP 	textCross: autoDraw = False
+37.1756 	EXP 	textGame: autoDraw = True
+37.4615 	EXP 	New trial (rep=0, index=24): <Trial 24 (24 in rep 0) data={'trialType': 'chunk', 'letter1': 'M', 'type_letter1': 'italic', 'letter2': 'Y', 'type_letter2': 'italic', 'letter3': 'T', 'type_letter3': 'italic', 'letter4': 'O', 'type_letter4': 'italic', 'letter5': 'A', 'type_letter5': 'italic', 'letter6': 'S', 'type_letter6': 'italic', 'letter7': 'U', 'type_letter7': 'italic', 'letter8': 'P', 'type_letter8': 'italic', 'starPosition': 5.0, 'letterTarget': 'A', 'TypeTarget': 'italic', 'letterFoil1': 'A', 'typeFoil1': 'bold', 'letterFoil2': 'I', 'typeFoil2': 'italic', 'letterFoil3': 'I', 'typeFoil3': 'bold', 'thisN': 24, 'thisTrialN': 24, 'thisRepN': 0}>
+37.4628 	DATA 	Keypress: n
+37.4757 	EXP 	textGame: autoDraw = False
+37.4757 	EXP 	textCross: autoDraw = True
+38.4758 	INFO 	Keyboard events cleared
+38.4754 	EXP 	textCross: autoDraw = False
+38.4754 	EXP 	textCross: autoDraw = False
+38.4754 	EXP 	textGame: autoDraw = True
+38.7115 	EXP 	New trial (rep=0, index=25): <Trial 25 (25 in rep 0) data={'trialType': 'chunk', 'letter1': 'I', 'type_letter1': 'italic', 'letter2': 'F', 'type_letter2': 'bold', 'letter3': 'W', 'type_letter3': 'bold', 'letter4': 'E', 'type_letter4': 'bold', 'letter5': 'T', 'type_letter5': 'italic', 'letter6': 'O', 'type_letter6': 'bold', 'letter7': 'A', 'type_letter7': 'italic', 'letter8': 'S', 'type_letter8': 'bold', 'starPosition': 1.0, 'letterTarget': 'I', 'TypeTarget': 'italic', 'letterFoil1': 'I', 'typeFoil1': 'bold', 'letterFoil2': 'U', 'typeFoil2': 'italic', 'letterFoil3': 'U', 'typeFoil3': 'bold', 'thisN': 25, 'thisTrialN': 25, 'thisRepN': 0}>
+38.7123 	DATA 	Keypress: n
+38.7253 	EXP 	textGame: autoDraw = False
+38.7253 	EXP 	textCross: autoDraw = True
+39.7255 	INFO 	Keyboard events cleared
+39.7251 	EXP 	textCross: autoDraw = False
+39.7251 	EXP 	textCross: autoDraw = False
+39.7251 	EXP 	textGame: autoDraw = True
+39.9781 	EXP 	New trial (rep=0, index=26): <Trial 26 (26 in rep 0) data={'trialType': 'chunk', 'letter1': 'A', 'type_letter1': 'bold', 'letter2': 'S', 'type_letter2': 'italic', 'letter3': 'I', 'type_letter3': 'italic', 'letter4': 'F', 'type_letter4': 'italic', 'letter5': 'W', 'type_letter5': 'italic', 'letter6': 'E', 'type_letter6': 'italic', 'letter7': 'T', 'type_letter7': 'italic', 'letter8': 'O', 'type_letter8': 'italic', 'starPosition': 4.0, 'letterTarget': 'F', 'TypeTarget': 'italic', 'letterFoil1': 'F', 'typeFoil1': 'bold', 'letterFoil2': 'U', 'typeFoil2': 'italic', 'letterFoil3': 'U', 'typeFoil3': 'bold', 'thisN': 26, 'thisTrialN': 26, 'thisRepN': 0}>
+39.9789 	DATA 	Keypress: n
+39.9919 	EXP 	textGame: autoDraw = False
+39.9919 	EXP 	textCross: autoDraw = True
+40.9922 	INFO 	Keyboard events cleared
+40.9919 	EXP 	textCross: autoDraw = False
+40.9919 	EXP 	textCross: autoDraw = False
+40.9919 	EXP 	textGame: autoDraw = True
+41.2946 	EXP 	New trial (rep=0, index=27): <Trial 27 (27 in rep 0) data={'trialType': 'chunk', 'letter1': 'A', 'type_letter1': 'italic', 'letter2': 'S', 'type_letter2': 'italic', 'letter3': 'T', 'type_letter3': 'bold', 'letter4': 'O', 'type_letter4': 'italic', 'letter5': 'M', 'type_letter5': 'italic', 'letter6': 'Y', 'type_letter6': 'italic', 'letter7': 'W', 'type_letter7': 'bold', 'letter8': 'E', 'type_letter8': 'bold', 'starPosition': 6.0, 'letterTarget': 'Y', 'TypeTarget': 'italic', 'letterFoil1': 'Y', 'typeFoil1': 'bold', 'letterFoil2': 'I', 'typeFoil2': 'italic', 'letterFoil3': 'I', 'typeFoil3': 'bold', 'thisN': 27, 'thisTrialN': 27, 'thisRepN': 0}>
+41.2954 	DATA 	Keypress: n
+41.3084 	EXP 	textGame: autoDraw = False
+41.3084 	EXP 	textCross: autoDraw = True
+42.3087 	INFO 	Keyboard events cleared
+42.3083 	EXP 	textCross: autoDraw = False
+42.3083 	EXP 	textCross: autoDraw = False
+42.3083 	EXP 	textGame: autoDraw = True
+42.6112 	EXP 	New trial (rep=0, index=28): <Trial 28 (28 in rep 0) data={'trialType': 'chunk', 'letter1': 'I', 'type_letter1': 'italic', 'letter2': 'F', 'type_letter2': 'italic', 'letter3': 'M', 'type_letter3': 'italic', 'letter4': 'Y', 'type_letter4': 'italic', 'letter5': 'T', 'type_letter5': 'italic', 'letter6': 'O', 'type_letter6': 'italic', 'letter7': 'U', 'type_letter7': 'bold', 'letter8': 'P', 'type_letter8': 'bold', 'starPosition': 2.0, 'letterTarget': 'F', 'TypeTarget': 'italic', 'letterFoil1': 'F', 'typeFoil1': 'bold', 'letterFoil2': 'T', 'typeFoil2': 'italic', 'letterFoil3': 'T', 'typeFoil3': 'bold', 'thisN': 28, 'thisTrialN': 28, 'thisRepN': 0}>
+42.6120 	DATA 	Keypress: n
+42.6248 	EXP 	textGame: autoDraw = False
+42.6248 	EXP 	textCross: autoDraw = True
+43.5943 	DATA 	Keypress: n
+43.6251 	INFO 	Keyboard events cleared
+43.6247 	EXP 	textCross: autoDraw = False
+43.6247 	EXP 	textCross: autoDraw = False
+43.6247 	EXP 	textGame: autoDraw = True
+45.7274 	EXP 	New trial (rep=0, index=29): <Trial 29 (29 in rep 0) data={'trialType': 'random', 'letter1': 'T', 'type_letter1': 'italic', 'letter2': 'P', 'type_letter2': 'bold', 'letter3': 'S', 'type_letter3': 'italic', 'letter4': 'F', 'type_letter4': 'italic', 'letter5': 'A', 'type_letter5': 'italic', 'letter6': 'E', 'type_letter6': 'italic', 'letter7': 'I', 'type_letter7': 'bold', 'letter8': 'M', 'type_letter8': 'bold', 'starPosition': 2.0, 'letterTarget': 'P', 'TypeTarget': 'bold', 'letterFoil1': 'P', 'typeFoil1': 'italic', 'letterFoil2': 'T', 'typeFoil2': 'bold', 'letterFoil3': 'T', 'typeFoil3': 'italic', 'thisN': 29, 'thisTrialN': 29, 'thisRepN': 0}>
+45.7283 	DATA 	Keypress: n
+45.7411 	EXP 	textGame: autoDraw = False
+45.7411 	EXP 	textCross: autoDraw = True
+46.7414 	INFO 	Keyboard events cleared
+46.7410 	EXP 	textCross: autoDraw = False
+46.7410 	EXP 	textCross: autoDraw = False
+46.7410 	EXP 	textGame: autoDraw = True
+47.0771 	EXP 	New trial (rep=0, index=30): <Trial 30 (30 in rep 0) data={'trialType': 'random', 'letter1': 'S', 'type_letter1': 'italic', 'letter2': 'Y', 'type_letter2': 'bold', 'letter3': 'T', 'type_letter3': 'bold', 'letter4': 'U', 'type_letter4': 'italic', 'letter5': 'E', 'type_letter5': 'bold', 'letter6': 'O', 'type_letter6': 'italic', 'letter7': 'M', 'type_letter7': 'bold', 'letter8': 'I', 'type_letter8': 'bold', 'starPosition': 3.0, 'letterTarget': 'T', 'TypeTarget': 'bold', 'letterFoil1': 'T', 'typeFoil1': 'italic', 'letterFoil2': 'F', 'typeFoil2': 'bold', 'letterFoil3': 'F', 'typeFoil3': 'italic', 'thisN': 30, 'thisTrialN': 30, 'thisRepN': 0}>
+47.0779 	DATA 	Keypress: n
+47.0909 	EXP 	textGame: autoDraw = False
+47.0909 	EXP 	textCross: autoDraw = True
+48.0912 	INFO 	Keyboard events cleared
+48.0908 	EXP 	textCross: autoDraw = False
+48.0908 	EXP 	textCross: autoDraw = False
+48.0908 	EXP 	textGame: autoDraw = True
+48.3936 	EXP 	New trial (rep=0, index=31): <Trial 31 (31 in rep 0) data={'trialType': 'chunk', 'letter1': 'A', 'type_letter1': 'bold', 'letter2': 'S', 'type_letter2': 'bold', 'letter3': 'T', 'type_letter3': 'italic', 'letter4': 'O', 'type_letter4': 'italic', 'letter5': 'I', 'type_letter5': 'italic', 'letter6': 'F', 'type_letter6': 'bold', 'letter7': 'M', 'type_letter7': 'bold', 'letter8': 'Y', 'type_letter8': 'italic', 'starPosition': 5.0, 'letterTarget': 'I', 'TypeTarget': 'italic', 'letterFoil1': 'I', 'typeFoil1': 'bold', 'letterFoil2': 'U', 'typeFoil2': 'italic', 'letterFoil3': 'U', 'typeFoil3': 'bold', 'thisN': 31, 'thisTrialN': 31, 'thisRepN': 0}>
+48.3944 	DATA 	Keypress: n
+48.4076 	EXP 	textGame: autoDraw = False
+48.4076 	EXP 	textCross: autoDraw = True
+49.4079 	INFO 	Keyboard events cleared
+49.4074 	EXP 	textCross: autoDraw = False
+49.4074 	EXP 	textCross: autoDraw = False
+49.4074 	EXP 	textGame: autoDraw = True
+49.7436 	EXP 	New trial (rep=0, index=32): <Trial 32 (32 in rep 0) data={'trialType': 'random', 'letter1': 'O', 'type_letter1': 'italic', 'letter2': 'P', 'type_letter2': 'italic', 'letter3': 'E', 'type_letter3': 'italic', 'letter4': 'T', 'type_letter4': 'bold', 'letter5': 'W', 'type_letter5': 'bold', 'letter6': 'U', 'type_letter6': 'italic', 'letter7': 'M', 'type_letter7': 'bold', 'letter8': 'A', 'type_letter8': 'bold', 'starPosition': 5.0, 'letterTarget': 'W', 'TypeTarget': 'bold', 'letterFoil1': 'W', 'typeFoil1': 'italic', 'letterFoil2': 'I', 'typeFoil2': 'bold', 'letterFoil3': 'I', 'typeFoil3': 'italic', 'thisN': 32, 'thisTrialN': 32, 'thisRepN': 0}>
+49.7444 	DATA 	Keypress: n
+49.7574 	EXP 	textGame: autoDraw = False
+49.7574 	EXP 	textCross: autoDraw = True
+50.7584 	INFO 	Keyboard events cleared
+50.7579 	EXP 	textCross: autoDraw = False
+50.7579 	EXP 	textCross: autoDraw = False
+50.7579 	EXP 	textGame: autoDraw = True
+50.9600 	EXP 	New trial (rep=0, index=33): <Trial 33 (33 in rep 0) data={'trialType': 'random', 'letter1': 'W', 'type_letter1': 'italic', 'letter2': 'M', 'type_letter2': 'bold', 'letter3': 'A', 'type_letter3': 'bold', 'letter4': 'E', 'type_letter4': 'bold', 'letter5': 'Y', 'type_letter5': 'bold', 'letter6': 'P', 'type_letter6': 'italic', 'letter7': 'T', 'type_letter7': 'bold', 'letter8': 'I', 'type_letter8': 'italic', 'starPosition': 1.0, 'letterTarget': 'W', 'TypeTarget': 'italic', 'letterFoil1': 'W', 'typeFoil1': 'bold', 'letterFoil2': 'S', 'typeFoil2': 'italic', 'letterFoil3': 'S', 'typeFoil3': 'bold', 'thisN': 33, 'thisTrialN': 33, 'thisRepN': 0}>
+50.9608 	DATA 	Keypress: n
+50.9738 	EXP 	textGame: autoDraw = False
+50.9738 	EXP 	textCross: autoDraw = True
+51.9741 	INFO 	Keyboard events cleared
+51.9737 	EXP 	textCross: autoDraw = False
+51.9737 	EXP 	textCross: autoDraw = False
+51.9737 	EXP 	textGame: autoDraw = True
+52.4778 	EXP 	New trial (rep=0, index=34): <Trial 34 (34 in rep 0) data={'trialType': 'random', 'letter1': 'P', 'type_letter1': 'italic', 'letter2': 'S', 'type_letter2': 'italic', 'letter3': 'T', 'type_letter3': 'bold', 'letter4': 'E', 'type_letter4': 'bold', 'letter5': 'U', 'type_letter5': 'bold', 'letter6': 'F', 'type_letter6': 'bold', 'letter7': 'I', 'type_letter7': 'bold', 'letter8': 'Y', 'type_letter8': 'bold', 'starPosition': 7.0, 'letterTarget': 'I', 'TypeTarget': 'bold', 'letterFoil1': 'I', 'typeFoil1': 'italic', 'letterFoil2': 'M', 'typeFoil2': 'bold', 'letterFoil3': 'M', 'typeFoil3': 'italic', 'thisN': 34, 'thisTrialN': 34, 'thisRepN': 0}>
+52.4786 	DATA 	Keypress: n
+52.4903 	EXP 	textGame: autoDraw = False
+52.4903 	EXP 	textCross: autoDraw = True
+53.4907 	INFO 	Keyboard events cleared
+53.4902 	EXP 	textCross: autoDraw = False
+53.4902 	EXP 	textCross: autoDraw = False
+53.4902 	EXP 	textGame: autoDraw = True
+53.7096 	EXP 	New trial (rep=0, index=35): <Trial 35 (35 in rep 0) data={'trialType': 'random', 'letter1': 'T', 'type_letter1': 'bold', 'letter2': 'W', 'type_letter2': 'italic', 'letter3': 'S', 'type_letter3': 'italic', 'letter4': 'I', 'type_letter4': 'italic', 'letter5': 'P', 'type_letter5': 'italic', 'letter6': 'E', 'type_letter6': 'bold', 'letter7': 'U', 'type_letter7': 'bold', 'letter8': 'Y', 'type_letter8': 'bold', 'starPosition': 3.0, 'letterTarget': 'S', 'TypeTarget': 'italic', 'letterFoil1': 'S', 'typeFoil1': 'bold', 'letterFoil2': 'O', 'typeFoil2': 'italic', 'letterFoil3': 'O', 'typeFoil3': 'bold', 'thisN': 35, 'thisTrialN': 35, 'thisRepN': 0}>
+53.7104 	DATA 	Keypress: n
+53.7235 	EXP 	textGame: autoDraw = False
+53.7235 	EXP 	textCross: autoDraw = True
+54.7239 	INFO 	Keyboard events cleared
+54.7234 	EXP 	textCross: autoDraw = False
+54.7234 	EXP 	textCross: autoDraw = False
+54.7234 	EXP 	textGame: autoDraw = True
+55.0097 	EXP 	New trial (rep=0, index=36): <Trial 36 (36 in rep 0) data={'trialType': 'random', 'letter1': 'F', 'type_letter1': 'italic', 'letter2': 'A', 'type_letter2': 'italic', 'letter3': 'W', 'type_letter3': 'italic', 'letter4': 'T', 'type_letter4': 'bold', 'letter5': 'S', 'type_letter5': 'italic', 'letter6': 'E', 'type_letter6': 'bold', 'letter7': 'M', 'type_letter7': 'bold', 'letter8': 'O', 'type_letter8': 'italic', 'starPosition': 8.0, 'letterTarget': 'O', 'TypeTarget': 'italic', 'letterFoil1': 'O', 'typeFoil1': 'bold', 'letterFoil2': 'P', 'typeFoil2': 'italic', 'letterFoil3': 'P', 'typeFoil3': 'bold', 'thisN': 36, 'thisTrialN': 36, 'thisRepN': 0}>
+55.0105 	DATA 	Keypress: n
+55.0233 	EXP 	textGame: autoDraw = False
+55.0233 	EXP 	textCross: autoDraw = True
+56.0236 	INFO 	Keyboard events cleared
+56.0232 	EXP 	textCross: autoDraw = False
+56.0232 	EXP 	textCross: autoDraw = False
+56.0232 	EXP 	textGame: autoDraw = True
+56.2926 	EXP 	New trial (rep=0, index=37): <Trial 37 (37 in rep 0) data={'trialType': 'random', 'letter1': 'U', 'type_letter1': 'bold', 'letter2': 'W', 'type_letter2': 'italic', 'letter3': 'E', 'type_letter3': 'italic', 'letter4': 'I', 'type_letter4': 'italic', 'letter5': 'F', 'type_letter5': 'bold', 'letter6': 'Y', 'type_letter6': 'bold', 'letter7': 'S', 'type_letter7': 'italic', 'letter8': 'M', 'type_letter8': 'bold', 'starPosition': 5.0, 'letterTarget': 'F', 'TypeTarget': 'bold', 'letterFoil1': 'F', 'typeFoil1': 'italic', 'letterFoil2': 'T', 'typeFoil2': 'bold', 'letterFoil3': 'T', 'typeFoil3': 'italic', 'thisN': 37, 'thisTrialN': 37, 'thisRepN': 0}>
+56.2934 	DATA 	Keypress: n
+56.3066 	EXP 	textGame: autoDraw = False
+56.3066 	EXP 	textCross: autoDraw = True
+57.3069 	INFO 	Keyboard events cleared
+57.3065 	EXP 	textCross: autoDraw = False
+57.3065 	EXP 	textCross: autoDraw = False
+57.3065 	EXP 	textGame: autoDraw = True
+57.9591 	EXP 	New trial (rep=0, index=38): <Trial 38 (38 in rep 0) data={'trialType': 'random', 'letter1': 'P', 'type_letter1': 'bold', 'letter2': 'A', 'type_letter2': 'italic', 'letter3': 'I', 'type_letter3': 'bold', 'letter4': 'T', 'type_letter4': 'bold', 'letter5': 'U', 'type_letter5': 'bold', 'letter6': 'E', 'type_letter6': 'italic', 'letter7': 'M', 'type_letter7': 'bold', 'letter8': 'F', 'type_letter8': 'bold', 'starPosition': 7.0, 'letterTarget': 'M', 'TypeTarget': 'bold', 'letterFoil1': 'M', 'typeFoil1': 'italic', 'letterFoil2': 'W', 'typeFoil2': 'bold', 'letterFoil3': 'W', 'typeFoil3': 'italic', 'thisN': 38, 'thisTrialN': 38, 'thisRepN': 0}>
+57.9600 	DATA 	Keypress: n
+57.9730 	EXP 	textGame: autoDraw = False
+57.9730 	EXP 	textCross: autoDraw = True
+58.9734 	INFO 	Keyboard events cleared
+58.9730 	EXP 	textCross: autoDraw = False
+58.9730 	EXP 	textCross: autoDraw = False
+58.9730 	EXP 	textGame: autoDraw = True
+59.2427 	DATA 	Keypress: escape
+59.3922 	EXP 	prelearned_chunks: status = STOPPED
+59.4061 	EXP 	textGame: autoDraw = False
+59.4082 	EXP 	prelearned_chunks: status = STOPPED
+59.6847 	INFO 	saved data to 'D:\\repositorio\\psychopy\\data/301627_prelearned_chunks_2025-08-14_19h52.11.001.csv'
+59.6866 	INFO 	saved data to D:\repositorio\psychopy\data/301627_prelearned_chunks_2025-08-14_19h52.11.001.psydat
+59.9815 	DEBUG 	Saving data for prelearned_chunks ExperimentHandler

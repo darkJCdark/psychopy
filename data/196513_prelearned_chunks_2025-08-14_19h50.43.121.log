@@ -1,0 +1,92 @@
+10.4251 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+10.4262 	INFO 	Loaded monitor calibration from ['2025_08_11 18:54']
+11.2574 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001644C990F70>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001644C990F10>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001644CA42470>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 240.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+11.2575 	EXP 	window1: backgroundImage = ''
+11.2575 	EXP 	window1: backgroundFit = 'none'
+11.2748 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2756 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2764 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2774 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2784 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2789 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2797 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2807 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2811 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2815 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2823 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2831 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2839 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2847 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2854 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2862 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2871 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2876 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2881 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2892 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2897 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2901 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.3150 	DEBUG 	Upload of Texture Font fontname complete
+11.3311 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.3322 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.3332 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.3335 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.3494 	DEBUG 	Upload of Texture Font fontname complete
+11.3514 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+11.3514 	EXP 	window1: recordFrameIntervals = False
+11.5221 	EXP 	window1: recordFrameIntervals = True
+11.7048 	EXP 	Screen (0) actual frame rate measured at 60.08Hz
+11.7049 	EXP 	window1: recordFrameIntervals = False
+11.7230 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.7236 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.7245 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.7256 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.7266 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.7277 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.7282 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.7292 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.7302 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.7312 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.7315 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.7320 	DEBUG 	Upload of Texture Font fontname complete
+11.7525 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+13.3383 	INFO 	keyboard.Keyboard is using iohub backend.
+13.3384 	INFO 	keyboard.Keyboard is using iohub backend.
+13.3384 	INFO 	keyboard.Keyboard is using iohub backend.
+13.3385 	INFO 	keyboard.Keyboard is using iohub backend.
+13.3385 	EXP 	prelearned_chunks: status = STARTED
+13.3824 	EXP 	Created textWelcome = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textWelcome', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Welcome!\nPress space plis.', units='height', win=Window(...), wrapWidth=1)
+13.3866 	EXP 	Created textCross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textCross', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+13.3920 	EXP 	Created textGame = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textGame', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Game\nPress y or n', units='height', win=Window(...), wrapWidth=1)
+13.3965 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thanks!\nPress space plis.', units='height', win=Window(...), wrapWidth=1)
+0.0014 	DATA 	Mouse: Left button down, pos=(426,185)
+0.0019 	DATA 	Mouse:  Left button up, pos=(426,185)
+0.0251 	INFO 	Keyboard events cleared
+0.0246 	EXP 	textWelcome: autoDraw = True
+0.9309 	DEBUG 	Read excel file with openpyxl: config/config.xlsx
+1.0012 	EXP 	Imported config/config.xlsx as conditions, 160 conditions, 26 params
+1.0047 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'trialType': 'random', 'letter1': 'F', 'type_letter1': 'bold', 'letter2': 'P', 'type_letter2': 'italic', 'letter3': 'A', 'type_letter3': 'italic', 'letter4': 'I', 'type_letter4': 'bold', 'letter5': 'O', 'type_letter5': 'italic', 'letter6': 'W', 'type_letter6': 'bold', 'letter7': 'T', 'type_letter7': 'bold', 'letter8': 'M', 'type_letter8': 'bold', 'starPosition': 4.0, 'letterTarget': 'I', 'TypeTarget': 'bold', 'letterFoil1': 'I', 'typeFoil1': 'italic', 'letterFoil2': 'S', 'typeFoil2': 'bold', 'letterFoil3': 'S', 'typeFoil3': 'italic', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+1.0072 	DATA 	Keypress: space
+1.0249 	EXP 	textWelcome: autoDraw = False
+1.0249 	EXP 	textCross: autoDraw = True
+1.8590 	INFO 	Keyboard events cleared
+1.8586 	EXP 	textCross: autoDraw = False
+1.8586 	EXP 	textGame: autoDraw = True
+2.8586 	EXP 	textGame: autoDraw = False
+3.4112 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'trialType': 'random', 'letter1': 'S', 'type_letter1': 'italic', 'letter2': 'Y', 'type_letter2': 'bold', 'letter3': 'T', 'type_letter3': 'bold', 'letter4': 'U', 'type_letter4': 'italic', 'letter5': 'E', 'type_letter5': 'bold', 'letter6': 'O', 'type_letter6': 'italic', 'letter7': 'M', 'type_letter7': 'bold', 'letter8': 'I', 'type_letter8': 'bold', 'starPosition': 3.0, 'letterTarget': 'T', 'TypeTarget': 'bold', 'letterFoil1': 'T', 'typeFoil1': 'italic', 'letterFoil2': 'F', 'typeFoil2': 'bold', 'letterFoil3': 'F', 'typeFoil3': 'italic', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+3.4121 	DATA 	Keypress: n
+3.4253 	EXP 	textGame: autoDraw = False
+3.4253 	EXP 	textCross: autoDraw = True
+4.4252 	INFO 	Keyboard events cleared
+4.4248 	EXP 	textCross: autoDraw = False
+4.4248 	EXP 	textCross: autoDraw = False
+4.4248 	EXP 	textGame: autoDraw = True
+5.4247 	EXP 	textGame: autoDraw = False
+12.7268 	DATA 	Keypress: space
+14.0275 	DATA 	Mouse: Left button down, pos=(632,262)
+14.2444 	DATA 	Mouse:  Left button up, pos=(632,262)
+15.1599 	DATA 	Keypress: escape
+15.3098 	EXP 	prelearned_chunks: status = STOPPED
+15.3260 	EXP 	prelearned_chunks: status = STOPPED
+15.3309 	INFO 	saved data to 'D:\\repositorio\\psychopy\\data/196513_prelearned_chunks_2025-08-14_19h50.43.121.csv'
+15.4146 	INFO 	saved data to D:\repositorio\psychopy\data/196513_prelearned_chunks_2025-08-14_19h50.43.121.psydat
+15.9620 	DEBUG 	Saving data for prelearned_chunks ExperimentHandler
