@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2024.2.4),
-    on Agosto 14, 2025, at 19:52
+    on Agosto 16, 2025, at 19:09
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -60,7 +60,7 @@ or run the experiment with `--pilot` as an argument. To change what pilot
 PILOTING = core.setPilotModeFromArgs()
 # start off with values from experiment settings
 _fullScr = True
-_winSize = (1024, 768)
+_winSize = [1920, 1080]
 # if in pilot mode, apply overrides according to preferences
 if PILOTING:
     # force windowed mode
@@ -126,7 +126,7 @@ def setupData(expInfo, dataDir=None):
     thisExp = data.ExperimentHandler(
         name=expName, version='',
         extraInfo=expInfo, runtimeInfo=None,
-        originPath='D:\\repositorio\\psychopy\\prelearned_chunks_lastrun.py',
+        originPath='D:\\semi\\psychopy\\prelearned_chunks_lastrun.py',
         savePickle=True, saveWideText=True,
         dataFileName=dataDir + os.sep + filename, sortColumns='time'
     )
@@ -195,7 +195,7 @@ def setupWindow(expInfo=None, win=None):
         win = visual.Window(
             size=_winSize, fullscr=_fullScr, screen=0,
             winType='pyglet', allowGUI=False, allowStencil=False,
-            monitor='testMonitor', color=[0,0,0], colorSpace='rgb',
+            monitor='testMonitor', color=[1.0000, 1.0000, 1.0000], colorSpace='rgb',
             backgroundImage='', backgroundFit='none',
             blendMode='avg', useFBO=True,
             units='height',
@@ -203,7 +203,7 @@ def setupWindow(expInfo=None, win=None):
         )
     else:
         # if we have a window, just set the attributes which are safe to set
-        win.color = [0,0,0]
+        win.color = [1.0000, 1.0000, 1.0000]
         win.colorSpace = 'rgb'
         win.backgroundImage = ''
         win.backgroundFit = 'none'
@@ -381,10 +381,10 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     
     # --- Initialize components for Routine "welcome" ---
     textWelcome = visual.TextStim(win=win, name='textWelcome',
-        text='Welcome!\nPress space plis.',
+        text='Bienvenido/a a la prueba\nEn este experimento, verás en cada ensayo 4 pares de letras.\n- A veces los pares formarán PALABRAS REALES de 2 letras (por ejemplo: WE, TO, AS).\n- Otras veces, los pares serán COMBINACIONES ALEATORIAS de letras.\n- Cada letra estará escrita en NEGRITA o CURSIVA.\nLa actividad a realizar es la siguiente:\nDespués de ver las letras, te preguntaremos por una letra específica.\nDebes indicar:\n1. Qué letra era.\n2. En qué formato estaba (negrita o cursiva).\n\nEn la pantalla de respuesta verás 4 opciones que combinan letra y formato.\nDebes seleccionar la opción correcta.\n\nTen en consideración lo siguiente: \n- Presta atención tanto a la letra como a su formato.\n- No hay límite de tiempo, pero responde lo más rápido y preciso posible.\n- Usa el ratón para seleccionar la opción.\n\nPresiona ESPACIO para comenzar.',
         font='Arial',
-        pos=(0, 0), draggable=False, height=0.05, wrapWidth=None, ori=0.0, 
-        color='white', colorSpace='rgb', opacity=None, 
+        pos=(0, 0), draggable=False, height=0.03, wrapWidth=1.4, ori=0.0, 
+        color=[-1.0000, -1.0000, -1.0000], colorSpace='rgb', opacity=None, 
         languageStyle='LTR',
         depth=0.0);
     keySkip1 = keyboard.Keyboard(deviceName='keySkip1')
@@ -410,10 +410,10 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     
     # --- Initialize components for Routine "thanks" ---
     textThanks = visual.TextStim(win=win, name='textThanks',
-        text='Thanks!\nPress space plis.',
+        text='Has llegado al final de la prueba.\n¡Muchas gracias por tu participación! :D\nPresiona ESPACIO para finalizar.',
         font='Arial',
-        pos=(0, 0), draggable=False, height=0.05, wrapWidth=None, ori=0.0, 
-        color='white', colorSpace='rgb', opacity=None, 
+        pos=(0, 0), draggable=False, height=0.05, wrapWidth=1.4, ori=0.0, 
+        color=[-1.0000, -1.0000, -1.0000], colorSpace='rgb', opacity=None, 
         languageStyle='LTR',
         depth=0.0);
     keySkip2 = keyboard.Keyboard(deviceName='keySkip2')
