@@ -1,0 +1,83 @@
+157.1030 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+157.1052 	INFO 	Loaded monitor calibration from ['2025_08_10 19:26']
+157.9448 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001EC13B54F70>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001EC13B54FD0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001EC13C0C0D0>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 240.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+157.9449 	EXP 	window1: backgroundImage = ''
+157.9449 	EXP 	window1: backgroundFit = 'none'
+157.9818 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+157.9826 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+157.9834 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+157.9843 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+157.9852 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+157.9857 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+157.9863 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+157.9873 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+157.9877 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+157.9880 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+157.9886 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+157.9893 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+157.9898 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+157.9904 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+157.9909 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+157.9915 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+157.9922 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+157.9928 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+157.9935 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+157.9949 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+157.9967 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+157.9981 	DEBUG 	Uploading Texture Font fontname to graphics card
+158.0069 	DEBUG 	Upload of Texture Font fontname complete
+158.0513 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+158.0524 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+158.0532 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+158.0536 	DEBUG 	Uploading Texture Font fontname to graphics card
+158.0610 	DEBUG 	Upload of Texture Font fontname complete
+158.0629 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+158.0630 	EXP 	window1: recordFrameIntervals = False
+158.4358 	EXP 	window1: recordFrameIntervals = True
+158.5044 	WARNING 	t of last frame was 21.05ms (=1/47)
+158.7388 	WARNING 	t of last frame was 20.24ms (=1/49)
+158.7668 	WARNING 	t of last frame was 28.06ms (=1/35)
+158.8024 	WARNING 	t of last frame was 35.53ms (=1/28)
+158.8399 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+159.3679 	EXP 	Screen (0) actual frame rate measured at 59.63Hz
+159.3680 	EXP 	window1: recordFrameIntervals = False
+159.3728 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+159.3735 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+159.3745 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+159.3754 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+159.3762 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+159.3771 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+159.3776 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+159.3784 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+159.3796 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+159.3805 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+159.3808 	DEBUG 	Uploading Texture Font fontname to graphics card
+159.3814 	DEBUG 	Upload of Texture Font fontname complete
+159.3925 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+162.4024 	INFO 	keyboard.Keyboard is using iohub backend.
+162.4025 	INFO 	keyboard.Keyboard is using iohub backend.
+162.4025 	EXP 	prueba: status = STARTED
+162.5771 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.025, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1.4)
+162.5798 	EXP 	Created letra1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='letra1', opacity=1, ori=0.0, pos=array([-0.25,  0.  ]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+162.5805 	EXP 	Created letra2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='letra2', opacity=1, ori=0.0, pos=array([-0.2,  0. ]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+162.5811 	EXP 	Created letra3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='letra3', opacity=1, ori=0.0, pos=array([-0.025,  0.2  ]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+162.5818 	EXP 	Created letra4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='letra4', opacity=1, ori=0.0, pos=array([0.025, 0.2  ]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+162.5826 	EXP 	Created letra5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='letra5', opacity=1, ori=0.0, pos=array([0.2, 0. ]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+162.5833 	EXP 	Created letra6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='letra6', opacity=1, ori=0.0, pos=array([0.25, 0.  ]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+162.5840 	EXP 	Created letra7 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='letra7', opacity=1, ori=0.0, pos=array([-0.025, -0.2  ]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+162.5846 	EXP 	Created letra8 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-7.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='letra8', opacity=1, ori=0.0, pos=array([ 0.025, -0.2  ]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+162.5855 	EXP 	Created Espera = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Espera', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+162.5860 	EXP 	Created Alternativa_1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Alternativa_1', opacity=1, ori=0.0, pos=array([-0.3, -0.3]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+162.5865 	EXP 	Created Alternativa_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Alternativa_2', opacity=1, ori=0.0, pos=array([-0.1, -0.3]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+162.5871 	EXP 	Created Alternativa_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Alternativa_3', opacity=1, ori=0.0, pos=array([ 0.1, -0.3]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+162.5876 	EXP 	Created Alternativa_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Alternativa_4', opacity=1, ori=0.0, pos=array([ 0.3, -0.3]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+162.6092 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.2145 	INFO 	Keyboard events cleared
+0.1953 	EXP 	text: autoDraw = True
+5.9969 	DATA 	Keypress: escape
+6.2092 	EXP 	prueba: status = STOPPED
+6.2213 	EXP 	text: autoDraw = False
+6.2233 	EXP 	prueba: status = STOPPED
+6.2259 	INFO 	saved data to 'C:\\Users\\joseg\\OneDrive\\Documentos\\PROYECTO SEMINARIO\\data/611799_prueba_2025-08-17_18h11.00.444.csv'
+6.2266 	INFO 	saved data to C:\Users\joseg\OneDrive\Documentos\PROYECTO SEMINARIO\data/611799_prueba_2025-08-17_18h11.00.444.psydat
+6.9011 	DEBUG 	Saving data for prueba ExperimentHandler
